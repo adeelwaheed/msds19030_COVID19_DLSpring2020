@@ -8,3 +8,5 @@ True Infected: 578
 False Normal: 37
 False Infected: 09
 Precision: 0.96, Recall: 0.99, F1: 0.97
+
+Dataset: https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR
